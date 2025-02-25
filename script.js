@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (userAnswer.toLowerCase() === currentQuestion.name.toLowerCase()) {
       resultDiv.textContent = '正解！';
     } else {
-      resultDiv.textContent = '不正解。もう一度試してください。';
+      resultDiv.textContent = `不正解。正解は ${currentQuestion.name} です。`;
     }
   });
 
