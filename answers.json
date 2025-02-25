@@ -1,0 +1,14 @@
+[
+  {
+    "image": "images/aspirin.png",
+    "name": "Aspirin"
+  },
+  {
+    "image": "images/ibuprofen.png",
+    "name": "Ibuprofen"
+  },
+  {
+    "image": "images/paracetamol.png",
+    "name": "Paracetamol"
+  }
+]
